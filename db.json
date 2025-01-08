@@ -4,56 +4,56 @@
             "productNo": 1,
             "productName": "cosmo 천연 바디 오일",
             "productDetails": "천연 성분으로 만든 보습력 높은 바디 오일입니다. 피부를 부드럽고 촉촉하게 가꾸어 줍니다.",
-            "productImageUrl": "https://images.unsplash.com/photo-1532413992378-f169ac26fff0?q=80&w=2680&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/001.png",
             "price": 30000
         },
         {
             "productNo": 2,
             "productName": "cosmo 퍼펙트 파운데이션",
             "productDetails": "완벽한 커버력과 지속력을 자랑하는 파운데이션입니다. 자연스러운 피부 표현이 가능합니다.",
-            "productImageUrl": "https://images.unsplash.com/photo-1531646317777-0619c7c5d1d3?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/002.png",
             "price": 24000
         },
         {
             "productNo": 3,
             "productName": "cosmo 오렌지 립밤",
             "productDetails": "오렌지 향이 나는 보습력 좋은 립밤입니다. 건조한 입술을 촉촉하게 케어해줍니다.",
-            "productImageUrl": "https://images.unsplash.com/photo-1638404431939-3943201c8a86?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/003.png",
             "price": 15000
         },
         {
             "productNo": 4,
             "productName": "cosmo 향수 + 수분크림 세트",
             "productDetails": "은은한 향기의 향수와 수분 공급이 뛰어난 크림의 특별 세트입니다.",
-            "productImageUrl": "https://images.unsplash.com/photo-1577058109956-67adf6edc586?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/004.png",
             "price": 50000
         },
         {
             "productNo": 5,
             "productName": "cosmo 아이크림",
             "productDetails": "눈가 주름 개선에 효과적인 고농축 아이크림입니다. 피부 탄력을 높여줍니다.",
-            "productImageUrl": "https://images.unsplash.com/photo-1566733015703-b89a6389ff18?q=80&w=2536&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/005.png",
             "price": 75000
         },
         {
             "productNo": 6,
             "productName": "cosmo 촉촉한 틴트",
             "productDetails": "발색이 좋고 지속력이 뛰어난 수분 틴트입니다. 건조함 없이 하루종일 촉촉합니다.",
-            "productImageUrl": "https://images.pexels.com/photos/301367/pexels-photo-301367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/006.png",
             "price": 18000
         },
         {
             "productNo": 7,
             "productName": "cosmo 블루베리 에센스",
             "productDetails": "블루베리 추출물이 함유된 안티에이징 에센스입니다. 피부 활력을 되찾아줍니다.",
-            "productImageUrl": "https://images.unsplash.com/photo-1696025487682-9916beeb73e6?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/007.png",
             "price": 34000
         },
         {
             "productNo": 8,
             "productName": "cosmo 데이 크림",
             "productDetails": "가벼운 텍스처의 데일리 크림입니다. 매일 사용하기 좋은 기초 케어 제품입니다.",
-            "productImageUrl": "https://images.unsplash.com/photo-1585832622886-272fb3a927e0?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/008.png",
             "price": 20000
         }
     ]
