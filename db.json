@@ -5,168 +5,240 @@
             "productName": "천연 바디 오일",
             "productDetails": "천연 성분으로 만든 보습력 높은 바디 오일입니다. 피부를 부드럽고 촉촉하게 가꾸어 줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/001.png",
-            "price": 30000
+            "price": 30000,
+            "onlineStock": 40,
+            "offlineStock": 20,
+            "reviews": []
         },
         {
             "productNo": 2,
             "productName": "퍼펙트 파운데이션",
             "productDetails": "완벽한 커버력과 지속력을 자랑하는 파운데이션입니다. 자연스러운 피부 표현이 가능합니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/002.png",
-            "price": 24000
+            "price": 24000,
+            "onlineStock": 35,
+            "offlineStock": 25,
+            "reviews": []
         },
         {
             "productNo": 3,
             "productName": "오렌지 립밤",
             "productDetails": "오렌지 향이 나는 보습력 좋은 립밤입니다. 건조한 입술을 촉촉하게 케어해줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/003.png",
-            "price": 15000
+            "price": 15000,
+            "onlineStock": 50,
+            "offlineStock": 30,
+            "reviews": []
         },
         {
             "productNo": 4,
             "productName": "향수 + 수분크림 세트",
             "productDetails": "은은한 향기의 향수와 수분 공급이 뛰어난 크림의 특별 세트입니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/004.png",
-            "price": 50000
+            "price": 50000,
+            "onlineStock": 30,
+            "offlineStock": 15,
+            "reviews": []
         },
         {
             "productNo": 5,
             "productName": "아이크림",
             "productDetails": "눈가 주름 개선에 효과적인 고농축 아이크림입니다. 피부 탄력을 높여줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/005.png",
-            "price": 75000
+            "price": 75000,
+            "onlineStock": 45,
+            "offlineStock": 22,
+            "reviews": []
         },
         {
             "productNo": 6,
             "productName": "촉촉한 틴트",
             "productDetails": "발색이 좋고 지속력이 뛰어난 수분 틴트입니다. 건조함 없이 하루종일 촉촉합니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/006.png",
-            "price": 18000
+            "price": 18000,
+            "onlineStock": 60,
+            "offlineStock": 35,
+            "reviews": []
         },
         {
             "productNo": 7,
             "productName": "블루베리 에센스",
             "productDetails": "블루베리 추출물이 함유된 안티에이징 에센스입니다. 피부 활력을 되찾아줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/007.png",
-            "price": 34000
+            "price": 34000,
+            "onlineStock": 38,
+            "offlineStock": 18,
+            "reviews": []
         },
         {
             "productNo": 8,
             "productName": "데이 크림",
             "productDetails": "가벼운 텍스처의 데일리 크림입니다. 매일 사용하기 좋은 기초 케어 제품입니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/008.png",
-            "price": 20000
+            "price": 20000,
+            "onlineStock": 42,
+            "offlineStock": 28,
+            "reviews": []
         },
         {
             "productNo": 9,
             "productName": "남성 향수",
             "productDetails": "강렬하고 매력적인 향을 가진 남성용 향수입니다. 자신감을 부여하는 향기로 하루 종일 상쾌함을 유지합니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/009.png",
-            "price": 22000
+            "price": 22000,
+            "onlineStock": 55,
+            "offlineStock": 32,
+            "reviews": []
         },
         {
             "productNo": 10,
             "productName": "아이 쉐도우",
             "productDetails": "다양한 색상으로 구성된 아이 쉐도우입니다. 부드럽게 발리며, 오랜 시간 동안 선명한 컬러를 유지합니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/010.png",
-            "price": 26000
+            "price": 26000,
+            "onlineStock": 48,
+            "offlineStock": 24,
+            "reviews": []
         },
         {
             "productNo": 11,
             "productName": "수분크림&토너",
             "productDetails": "한 번에 수분과 수분 공급을 동시에 해결할 수 있는 제품입니다. 피부를 촉촉하게 유지하고, 건강한 피부로 가꾸어 줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/011.png",
-            "price": 19000
+            "price": 19000,
+            "onlineStock": 52,
+            "offlineStock": 27,
+            "reviews": []
         },
         {
             "productNo": 12,
             "productName": "알로에 에센스",
             "productDetails": "피부 진정과 보습에 탁월한 알로에 성분이 함유된 에센스입니다. 자극받은 피부를 빠르게 진정시켜 줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/012.png",
-            "price": 30000
+            "price": 30000,
+            "onlineStock": 44,
+            "offlineStock": 21,
+            "reviews": []
         },
         {
             "productNo": 13,
             "productName": "그린티 스킨케어 세트",
             "productDetails": "항산화 효과가 뛰어난 녹차 성분이 포함된 스킨케어 세트입니다. 피부를 맑고 건강하게 가꾸어 줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/013.png",
-            "price": 35000
+            "price": 35000,
+            "onlineStock": 36,
+            "offlineStock": 19,
+            "reviews": []
         },
         {
             "productNo": 14,
             "productName": "매트 매니큐어",
             "productDetails": "매트한 마감으로 고급스러움을 더한 매니큐어입니다. 손톱에 부드럽게 발리며, 오랜 시간 동안 지속됩니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/014.png",
-            "price": 28000
+            "price": 28000,
+            "onlineStock": 58,
+            "offlineStock": 33,
+            "reviews": []
         },
         {
             "productNo": 15,
             "productName": "퍼퓸드 샴푸& 컨디셔너",
             "productDetails": "향기로운 퍼퓸과 함께하는 샴푸와 컨디셔너 세트입니다. 모발을 부드럽고 윤기 있게 가꿔줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/015.png",
-            "price": 24000
+            "price": 24000,
+            "onlineStock": 46,
+            "offlineStock": 23,
+            "reviews": []
         },
         {
             "productNo": 16,
             "productName": "허니 애프터 쉐이브",
             "productDetails": "부드럽고 촉촉한 쉐이브 후 피부를 위한 애프터 쉐이브입니다. 꿀 성분이 피부를 진정시키고 보습해 줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/016.png",
-            "price": 33000
+            "price": 33000,
+            "onlineStock": 40,
+            "offlineStock": 20,
+            "reviews": []
         },
         {
             "productNo": 17,
             "productName": "글로우 젤 매니큐어",
             "productDetails": "빛나는 광택을 자랑하는 젤 매니큐어입니다. 쉽게 바를 수 있으며, 오랫동안 유지되는 컬러를 제공합니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/017.png",
-            "price": 37000
+            "price": 37000,
+            "onlineStock": 54,
+            "offlineStock": 29,
+            "reviews": []
         },
         {
             "productNo": 18,
             "productName": "미니어쳐 향수",
             "productDetails": "여행에 적합한 사이즈의 미니어쳐 향수입니다. 언제 어디서나 간편하게 사용할 수 있습니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/018.png",
-            "price": 21000
+            "price": 21000,
+            "onlineStock": 62,
+            "offlineStock": 34,
+            "reviews": []
         },
         {
             "productNo": 19,
             "productName": "세라마이드 스킨 포 맨",
             "productDetails": "남성 피부를 위한 세라마이드가 함유된 스킨입니다. 피부 장벽을 강화하고 수분을 공급합니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/019.png",
-            "price": 29000
+            "price": 29000,
+            "onlineStock": 43,
+            "offlineStock": 26,
+            "reviews": []
         },
         {
             "productNo": 20,
             "productName": "고농축 영양 세럼",
             "productDetails": "피부에 깊숙이 침투하여 영양을 공급하는 고농축 세럼입니다. 피부를 탄력 있게 가꾸고, 건강한 광채를 부여합니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/020.png",
-            "price": 32000
+            "price": 32000,
+            "onlineStock": 39,
+            "offlineStock": 17,
+            "reviews": []
         },
         {
             "productNo": 21,
             "productName": "헤어 아르간 오일",
             "productDetails": "아르간 오일이 풍부하게 함유된 헤어 오일입니다. 모발에 영양을 공급하고 윤기를 더해줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/021.png",
-            "price": 18000
+            "price": 18000,
+            "onlineStock": 57,
+            "offlineStock": 31,
+            "reviews": []
         },
         {
             "productNo": 22,
             "productName": "아이라이너",
             "productDetails": "정확한 라인을 그릴 수 있는 고급 아이라이너입니다. 오래 지속되며 번짐 없이 선명한 컬러를 제공합니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/022.png",
-            "price": 26000
+            "price": 26000,
+            "onlineStock": 51,
+            "offlineStock": 28,
+            "reviews": []
         },
         {
             "productNo": 23,
             "productName": "아보카도 바디 스크럽",
             "productDetails": "아보카도 추출물이 함유된 부드러운 바디 스크럽입니다. 각질 제거와 함께 피부를 매끄럽고 촉촉하게 만들어 줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/023.png",
-            "price": 30000
+            "price": 30000,
+            "onlineStock": 47,
+            "offlineStock": 25,
+            "reviews": []
         },
         {
             "productNo": 24,
             "productName": "핑크 블룸 여성 향수",
             "productDetails": "상큼하고 여성스러운 향의 핑크 블룸 향수입니다. 매일의 기분을 밝고 경쾌하게 만들어 줍니다.",
             "productImageUrl": "https://raw.githubusercontent.com/flow2c/cosmo/refs/heads/main/img/024.png",
-            "price": 23000
+            "price": 30000,
+            "onlineStock": 31,
+            "offlineStock": 19,
+            "reviews": []
         }
     ]
 }
